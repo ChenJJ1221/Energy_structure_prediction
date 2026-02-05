@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## This code uses the E-RAN model to predict the energy structure changes of 32 major countries in the world in the future. This code runs on pytorch 2.5, pandas 2.2.3.
 <!--
 **ChenJJ1221/ChenJJ1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
